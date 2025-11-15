@@ -17,7 +17,7 @@ In real-world datasets, inconsistencies such as missing values, duplicates, and 
 
 ---
 
-## 🛠 Libraries Used
+## Libraries Used
 
 * **Pandas** – for data manipulation
 * **NumPy** – for numerical operations
